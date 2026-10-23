@@ -15,7 +15,7 @@ public class DependencyInjectionTest {
 		//invoke the b.method
 		String result=finder.showSeasonName();
 		System.out.println("Season name::"+result);
-		//close the IOC container
+		
 		 ctx.close();
 
 	}//main
