@@ -6,8 +6,6 @@ import java.util.Arrays;
 
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
-import com.nt.sbeans.WishMessageGenerator;
-import com.nt.ston.Printer;
 
 public class DependencyInjectionTest {
 

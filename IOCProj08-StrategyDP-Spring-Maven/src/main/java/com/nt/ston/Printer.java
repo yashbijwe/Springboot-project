@@ -1,8 +1,6 @@
 //Printer.java
 package com.nt.ston;
 
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
 
 //@Component("prn")
 //@Scope("prototype")
